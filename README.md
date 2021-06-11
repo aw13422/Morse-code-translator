@@ -1,10 +1,10 @@
 Demo video: https://www.youtube.com/watch?v=nWchCSqZT_M
 
 morse_to_ascii block diagram
-![](Anthony/Screenshots/block.jpg)
+![](Screenshots/block.jpg)
 
-![](Anthony/Screenshots/1.PNG)
+![](Screenshots/1.PNG)
 
-![](Anthony/Screenshots/2.PNG)
+![](Screenshots/2.PNG)
 
-![](Anthony/Screenshots/3.PNG)
+![](Screenshots/3.PNG)
